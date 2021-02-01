@@ -6,8 +6,8 @@ client.on('ready', () => {
         activity: {
             details: "Discord Sunucumuz",
             assets: {
-                large_image: "logo1",
-                large_text: "🔗 Æ- Code&Plugins #Başlıyoruz" // oynuyor kısmında gözükecek yazı
+                large_image: "", //oluşturduğunuz application'a eklediğiniz fotoğraf ismi
+                large_text: "" // oynuyor kısmında gözükecek yazı
             },
             buttons: [{ label: "Discord Katılım Linki", url: "https://discord.gg/Guq8NvDhv3"}] // buton
         }
