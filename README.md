@@ -12,18 +12,15 @@ Sağ üstte bulunan `NEW APPLICATION` butonuna tıklayarak yeni bir app oluştur
 ![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812677094551060500/CREATE.png)
 
 Sağ kısımda bulunan menüden `RICH PRESENCE`'ye tıklayın ve ardından `ART ESSETS` bölümüne girin.
-![alt text]()
+![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812678005436317696/artessets.png)
 
-`ADD IMAGES` btuonuna tıklayarak oynuyor kısmında gözükecek fotoğrafı yükleyebilirsiniz.
-![alt text]()
+`ADD IMAGES` butonuna tıklayarak oynuyor kısmında gözükecek fotoğrafı yükleyebilirsiniz.
+![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812678308885823518/unknown.png)
 
-Tekrar sağdaki menüden GENERAL INFORMATION kısmına gelip `CLIENT ID`'nizi kopyalayın ve index.js dosyasında belirtilen yere yapıştırın.
-![alt text]()
-
-İsteğe göre eklediğiniz fotoğrafın ismini oynuyor kısmında gözükmesi için `index.js` dosyasında belirtilen yere basın.
-![alt text]()
+Tekrar sağdaki menüden GENERAL INFORMATION kısmına gelip `CLIENT ID`'nizi kopyalayın ve index.js dosyasında belirtilen yere yapıştırın. İsteğe göre eklediğiniz fotoğrafın ismini oynuyor kısmında gözükmesi için `index.js` dosyasında belirtilen yere yapıştırın.
+![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812682505408086086/figg.gif)
 
 Ardından yaptığınız bütün değişikleri kaydedip kapatabilirsiniz.
 
 Oluşturulduğunuz application'u kolay başlatmanız için `başlat.bat` adlı dosyayı çalıştırmanız yeterlidir.
-![alt text]()
+![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812683657318891590/fss.gif)
