@@ -4,13 +4,13 @@
 
 >[BURADAN](https://discord.com/developers/applications) RPC'yi eklemek istediğiniz discord hesabınızda giriş yapın.
 
-Sağ üstte bulunan `NEW APPLICATION` butonuna tıklayarak yeni bir app oluşturun.
+Sağ üstte bulunan ![alt image](https://ibb.co/n8HxjZf) butonuna tıklayarak yeni bir app oluşturun.
 
 Çıkan pop-up'tan oluşturmak istediğiniz app'e bir isim verin ve `CRATE` butonuna tıklayın.
 
 Oluşturduğunuz app'inize oynuyor kısmında gözükecek olan ismi verin.
 
-Sağ kısımda bulunan menüden `RICH PRESENCE`'ye tıklayın ve ardından ART ESSETS bölümüne girin.
+Sağ kısımda bulunan menüden `RICH PRESENCE`'ye tıklayın ve ardından `ART ESSETS` bölümüne girin.
 
 `ADD IMAGES` btuonuna tıklayarak oynuyor kısmında gözükecek fotoğrafı yükleyebilirsiniz.
 
