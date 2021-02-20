@@ -1,6 +1,6 @@
 # DISCORD RICH PRESENCE
 
-![alt text](https://ibb.co/VHh5Nvc)
+![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812676358689652767/RPC.png)
 
 
 >[BURADAN](https://discord.com/developers/applications) RPC'yi eklemek istediğiniz discord hesabınızda giriş yapın.
