@@ -1,10 +1,11 @@
 # DISCORD RICH PRESENCE
+
 ![alt text](https://ibb.co/VHh5Nvc)
 
 
 >[BURADAN](https://discord.com/developers/applications) RPC'yi eklemek istediğiniz discord hesabınızda giriş yapın.
 
-Sağ üstte bulunan ![alt text](https://ibb.co/n8HxjZf) butonuna tıklayarak yeni bir app oluşturun.
+Sağ üstte bulunan `NEW APPLICATION` butonuna tıklayarak yeni bir app oluşturun.
 
 Çıkan pop-up'tan oluşturmak istediğiniz app'e bir isim verin ve `CRATE` butonuna tıklayın.
 
