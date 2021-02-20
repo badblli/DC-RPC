@@ -4,7 +4,7 @@
 
 >[BURADAN](https://discord.com/developers/applications) RPC'yi eklemek istediğiniz discord hesabınızda giriş yapın.
 
-Sağ üstte bulunan ![alt image](https://ibb.co/n8HxjZf) butonuna tıklayarak yeni bir app oluşturun.
+Sağ üstte bulunan ![alt text](https://ibb.co/n8HxjZf) butonuna tıklayarak yeni bir app oluşturun.
 
 Çıkan pop-up'tan oluşturmak istediğiniz app'e bir isim verin ve `CRATE` butonuna tıklayın.
 
