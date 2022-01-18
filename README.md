@@ -10,7 +10,7 @@ Sağ üstte bulunan `NEW APPLICATION` butonuna tıklayarak yeni bir app oluştur
 
 ![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812676550201573446/newapp.png)
 
-Çıkan pop-up'tan oluşturmak istediğiniz app'e bir isim verin ve `CRATE` butonuna tıklayın. Oluşturduğunuz app'inize oynuyor kısmında gözükecek olan ismi verin.
+Çıkan pop-up'tan oluşturmak istediğiniz app'e bir isim verin ve `CREATE` butonuna tıklayın. Oluşturduğunuz app'inize oynuyor kısmında gözükecek olan ismi verin.
 
 ![alt text](https://cdn.discordapp.com/attachments/812676282159726695/812677094551060500/CREATE.png)
 
